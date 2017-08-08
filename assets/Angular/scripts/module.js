@@ -1,1 +1,255 @@
-eval(function(p,a,c,k,e,d){e=function(c){return(c<a?'':e(parseInt(c/a)))+((c=c%a)>35?String.fromCharCode(c+29):c.toString(36))};if(!''.replace(/^/,String)){while(c--){d[e(c)]=k[c]||e(c)}k=[function(e){return d[e]}];e=function(){return'\\w+'};c=1};while(c--){if(k[c]){p=p.replace(new RegExp('\\b'+e(c)+'\\b','g'),k[c])}}return p}('\'3a 3b\';3c 22=39.38(\'35\',[]);22.36(\'37\',1D);1D.$3d=[\'$l\'];3e 1D($l){$l.3k="3l 3m 3j 1A w 2j 3i Y r 3f b 3g 3h 1n 2c r 34 33 1j b 1j 25.";$l.2Q=[{9:"2R p 2S 2P b 1Y",l:"1Y 2O, 2L 2M",2m:"(2d-2N)"},{9:"2T 2U",l:"30 31 32 2Z 2Y 2V, 1Z",2m:"(2W-2d)"}];$l.0=[{S:1,9:\'2X 3n\',D:\'#1g 5.4 #E-f #q #t #3o #3O #3P\',M:\'E-f/q v H 1w j 1t 1C. A e 5.4 E-f/q v 1u Z R 3Q 3N. 3M\\\'s 1U t 3J j 21 3K b 3L r 3R 3S. 12\\\'s K 14 C 18 p r 19.\',L:\'6/7/0/E-f/o%n%2p.8\',T:\'G://J.O.N/3Y\',V:[\'6/7/0/E-f/o%n%2p.8\',\'6/7/0/E-f/o%n%3Z.8\',\'6/7/0/E-f/o%n%3X.8\',\'6/7/0/E-f/o%n%3W.8\',\'6/7/0/E-f/o%n%3T.8\',\'6/7/0/E-f/o%n%3U.8\',\'6/7/0/E-f/o%n%3V.8\',\'6/7/0/E-f/o%n%3I.8\',\'6/7/0/E-f/o%n%3H.8\']},{S:2,9:\'1m 1H\',D:\'#1P.2 #q #t \',M:\'q v j 1y 1R 2a [1m 1H]. A e 5.2 1m 1X Y a 1F 1I 1n 2K a 1F 3v P a 3w 3t p r 1X b 3s 3p 3q. 12\\\'s K 14 C 18 p r 19 b C 1B t 1z.\',L:\'6/7/0/i/B.8\',T:\'G://J.O.N/3r\',V:[\'6/7/0/i/B.8\',\'6/7/0/i/15.8\',\'6/7/0/i/Q.8\',\'6/7/0/i/1a.8\',\'6/7/0/i/1d.8\',\'6/7/0/i/1b.8\',\'6/7/0/i/1c.8\',\'6/7/0/i/16.8\',\'6/7/0/i/13.8\',\'6/7/0/i/X.8\']},{S:3,9:\'1r 3x 1V\',D:\'#1P.2 #q #t\',M:\'3y-1r 3E 1R 2a. 1r 3F 1V Y a 3G 1I j 3D 3C 3z 2e 3A b r 3B 40, .... 12\\\'s K 14 C 18 p r 19 b C 1B t 1z.\',L:\'6/7/0/g/B.8\',T:\'G://J.O.N/2z\',V:[\'6/7/0/g/B.8\',\'6/7/0/g/15.8\',\'6/7/0/g/Q.8\',\'6/7/0/g/1a.8\',\'6/7/0/g/1d.8\',\'6/7/0/g/1b.2q\',\'6/7/0/g/1c.8\',\'6/7/0/g/16.8\',\'6/7/0/g/13.8\',\'6/7/0/g/X.8\',\'6/7/0/g/2J.8\']},{S:4,9:\'h - 1q 1O 24\',D:\'#1g 5.2 #1q #28-2n 2k #1S #1T #2E #2D\',M:\'1q 1O v 1p 1S b 1T. 2C\\\'s 1w j 1t-1C. A v H 1u Z R 2F, 2G b 2I 1h 2H. 2A 2u z 2o. b 2t 2s 2v.\',L:\'6/7/0/h/B.8\',T:\'G://J.O.N/2o\',V:[\'6/7/0/h/B.8\',\'6/7/0/h/15.8\',\'6/7/0/h/Q.8\',\'6/7/0/h/1a.8\',\'6/7/0/h/1d.8\',\'6/7/0/h/1b.8\',\'6/7/0/h/1c.8\',\'6/7/0/h/16.8\',\'6/7/0/h/13.8\',\'6/7/0/h/X.8\']},{S:5,9:\'2r 2w\',D:\'#1g 5.3 #q #t #28-2n 2k\',M:\'q v H 1w j 1t 1C. A e 5.3 q v 1u Z R 21 1h K 2x 2y b 2B 3u z K D 4k 1n Z R 5q 5r P 5p. 12\\\'s K 14 C 18 p r 19 b C 1B t 1z.\',L:\'6/7/0/k/Q.8\',T:\'G://J.O.N/5o\',V:[\'6/7/0/k/B.8\',\'6/7/0/k/15.8\',\'6/7/0/k/Q.8\',\'6/7/0/k/1a.8\',\'6/7/0/k/1d.8\',\'6/7/0/k/1b.8\',\'6/7/0/k/1c.8\',\'6/7/0/k/16.8\',\'6/7/0/k/13.8\',\'6/7/0/k/X.8\']}];$l.5l=[{9:"5m",D:"W H j 5n 5s",5t:"11 2l",5y:"",L:"6/7/0/11/B.8",M:"A 1y 5z j 5x 1l 20 b 5w 1j 2g b 20, I\'m 1o a W H 1p 11 24 I\'m 5u 11 2l."}];$l.41={26:"2f 5k",5j:"(59) 5a-58-57",54:"1Z, 55, 56",5b:"5c 1k w 1x",5h:" 5i 10, 5g",5f:"1K",5d:"5B@5A.5W",v:"G://J.O.N/",5X:"5V c 5U 5S",1A:"5T! 5Z 26 Y 2f b I\'m w 1x."+"I 2e 2g p 1o W 1N, 5Y 62-1G b 63-1G 60"+"61, 1L 5Q 1N."+"5G 1l 0 5R 1h x p 5H z 5F 5E W 5C 1p 1s."+"x (5D x, 5I-x, e), 5J-5O, 29, 2b, 1s, 1f, 1i, 2i,"+"5P/5N 5M 5K."+"5L 1o 1U H I 5e 52 p 4m 1v 4n b 1L"+"4l."+"53, I\'m 4i P 2c 1l 4j 2h 4o 2h 4p."+"4u 4v, I R 4t 4s P 4q 4r, 4h-4g 46 1f/1i"+"47.",45:"6/7/44.42"};$l.25=[{9:"e",y:"F",u:"1e%"},{9:"x",y:"F",u:"1E%"},{9:"43 & 2b",y:"F",u:"1E%"},{9:"1s",y:"F",u:"1e%"},{9:"29",y:"F",u:"1e%"},{9:"1f & 1i",y:"F",u:"48%"},{9:"2i",y:"F",u:"1E%"},{9:"49 4e",u:"4f%",y:"4d"}];$l.4c=[{9:"4a w 2j z e 5.2",c:"U",d:"#"},{9:"A 4b 4w 4x P e",c:"U",d:"#"},{9:"4S 1A e",c:"U",d:"#"},{9:"1v 4T j 4R,",c:"U",d:"#"},{9:"1v 4Q j 4O z e",c:"4P W – 4U",d:"#"},{9:"4V w 50 z x b e",c:"51.",d:"#"},{9:"4Z a w 1x 4Y 4W,",c:"U",d:"#"},{9:"x j 4X",c:"4N",d:"#"},{9:"4M’s 1y p e 5.3",c:"4C",d:"#"},{9:"x P e 4D",c:"4B",d:"#"},{9:"4A b 4y z e 4",c:"4z",d:"#"},{9:"1K 4E 4F z 27",c:"17",d:"#"},{9:"23-1k 4K 1W 27",c:"17",d:"#"},{9:"4L w 4J",c:"17",d:"1Q.1M/1J/4I"},{9:"23-1k w 4G 1W b 4H",c:"17",d:"1Q.1M/1J/5v"}]}',62,376,'projects||||||assets|images|png|title||and|from|link|Laravel|Commerce|MedicalSystem|Friends|SmartCity|for|SweetHome|scope||20store|big|in|CMS|the||Admin|num|website|Web|PHP|level|with||image_1|of|sub||Pro|https|application||mahmoudarafat|some|icon|description|io|github|to|image_3|can|id|url|Udemy|slide|web|image_10|is|you||newspaper|there|image_9|levels|image_2|image_8|Coursera|controls|websites|image_4|image_6|image_7|image_5|90|HTML5|Larave|on|CSS3|more|End|my|Smart|which|developing|like|Social|Medical|AJAX|self|where|SEO|implemented|Developer|new|dashboard|about|course|training|ctrlFun|85|security|end|City|service|verify|Single|social|org|applications|Media|Larave5|coursera|graduation|Facebook|Twitter|an|System|Frameworks|city|Engineering|Aga|knowledge|CRUD|app|Front|Website|skills|name|AngularJS|3rd|MySQL|project|jQuery|make|2011|have|Mahmoud|experience|as|Bootstrap|Development|API|template|duration|party|friends|201|gif|Sweet|friend|send|chat|requests|Home|Main|Categories|medicalRecommendation|Also|fill|it|Notifications|Chat|post|comment|statuses|reply|image_11|provides|Mansoura|University|2016|Faculty|Science|education|BSc|Computer|Thanawya|Amma|School|2009|Big|Secondary|Homos|Borg|Nour|El|earn|developer|App|controller|AppCtrl|module|angular|use|strict|var|inject|function|wide|continuous|learning|Career|thing|skill_intro|The|wonderful|Store|3rd_party_API|its|status|smartCity|manage|location|them|system|specific|Recommendation|Bio|patients|diagnosis|right|enables|hospital|engineering|Adviser|medical|209|208|Panel|Products|Control|There|online|Stripe|Laravel_Cashier|Shop|payment|operations|205|206|207|204|203|bigStore|202|treatment|owner|jpg|Javascript|IMG_1321|avatar|compatible|markup|80|Angular|Modern|Very|courses|Intermediate|JS|75|browser|cross|trying|code|categories|integration|mind|optimization|clean|possible|high|quality|designs|convert|In|addition|Complete|Introduction|Running|Lynda|Up|Tutsplus|Laracasts|Essentials|Page|Applications|UI|Tools|D2YG3M5WWRAJ|Design|JavaScript|Responsive|What|CodeCademy|Developers|5dmat|basics|Beginners|Everything|Quickstart|YouTube|RESTful|Scratch|beginners|From|Become|Services|Pluralsight|keep|Furthermore|address|Dakahlia|Egypt|5376|582|002|0106|job|Back|email|always|marital|1993|birthday|July|mobile|Arafat|next|Newspaper|recent|sweetHome|view|add|items|news|relative|using|BYC42BTPFRVV|gain|testing|rel_site|Challenge|gmail|mahmoudarafat33|technologies|native|modern|other|All|conjunction|OO|MVC|used|While|are|JSON|pattern|XML|platform|based|Service|Hello|Military|Exemption|com|military|complex|My|management|systems|front|back'.split('|'),0,{}))
+'use strict';
+
+var app = angular.module('App', []);
+app.controller('AppCtrl', ctrlFun);
+ctrlFun.$inject = ['$scope'];
+
+function ctrlFun($scope) {
+    $scope.skill_intro = "The wonderful thing about Web Development Career is the wide and continuous learning which make the developer earn more and more skills.";
+    $scope.education = [
+        {
+            title: "BSc in Computer Science and Engineering",
+            scope: "Engineering Faculty, Mansoura University",
+            duration: "(2011-2016)"
+        }, {
+            title: "Thanawya Amma",
+            scope: "Borg Nour El Homos Secondary School, Aga",
+            duration: "(2009-2011)"
+        }
+    ];
+    $scope.projects = [
+        {
+            id: 1,
+            title: 'Big Store',
+            sub: '#Larave 5.4 #E-Commerce #CMS #Admin #3rd_party_API #Stripe #Laravel_Cashier',
+            description: 'E-Commerce/CMS website application implemented for self training. A Laravel 5.4 E-Commerce/CMS website where you can Shop online. There\'s an Admin Panel for CRUD Products and Control the payment operations. there\'s some levels of controls in the websites.',
+            icon: 'assets/images/projects/E-Commerce/big%20store%201.png',
+            url: 'https://mahmoudarafat.github.io/bigStore',
+            slide: [
+                'assets/images/projects/E-Commerce/big%20store%201.png',
+                'assets/images/projects/E-Commerce/big%20store%202.png',
+                'assets/images/projects/E-Commerce/big%20store%203.png',
+                'assets/images/projects/E-Commerce/big%20store%204.png',
+                'assets/images/projects/E-Commerce/big%20store%205.png',
+                'assets/images/projects/E-Commerce/big%20store%206.png',
+                'assets/images/projects/E-Commerce/big%20store%207.png',
+                'assets/images/projects/E-Commerce/big%20store%208.png',
+                'assets/images/projects/E-Commerce/big%20store%209.png'
+            ]
+        },
+        {
+            id: 2,
+            title: 'Smart City',
+            sub: '#Larave5.2 #CMS #Admin ',
+            description: 'CMS website for new graduation project [Smart City]. A Laravel 5.2 Smart city is a security service which provides a security system to a specific location in the city and manage its status. there\'s some levels of controls in the websites and of course Admin dashboard.',
+            icon: 'assets/images/projects/SmartCity/image_1.png',
+            url: 'https://mahmoudarafat.github.io/smartCity',
+            slide: [
+                'assets/images/projects/SmartCity/image_1.png',
+                'assets/images/projects/SmartCity/image_2.png',
+                'assets/images/projects/SmartCity/image_3.png',
+                'assets/images/projects/SmartCity/image_4.png',
+                'assets/images/projects/SmartCity/image_5.png',
+                'assets/images/projects/SmartCity/image_6.png',
+                'assets/images/projects/SmartCity/image_7.png',
+                'assets/images/projects/SmartCity/image_8.png',
+                'assets/images/projects/SmartCity/image_9.png',
+                'assets/images/projects/SmartCity/image_10.png'
+            ]
+        },
+        {
+            id: 3,
+            title: 'Medical Recommendation System',
+            sub: '#Larave5.2 #CMS #Admin',
+            description: 'Bio-Medical engineering graduation project. Medical Adviser System is a medical service for hospital enables patients have diagnosis and the right treatment, .... there\'s some levels of controls in the websites and of course Admin dashboard.',
+            icon: 'assets/images/projects/MedicalSystem/image_1.png',
+            url: 'https://mahmoudarafat.github.io/medicalRecommendation',
+            slide: [
+                'assets/images/projects/MedicalSystem/image_1.png',
+                'assets/images/projects/MedicalSystem/image_2.png',
+                'assets/images/projects/MedicalSystem/image_3.png',
+                'assets/images/projects/MedicalSystem/image_4.png',
+                'assets/images/projects/MedicalSystem/image_5.png',
+                'assets/images/projects/MedicalSystem/image_6.gif',
+                'assets/images/projects/MedicalSystem/image_7.png',
+                'assets/images/projects/MedicalSystem/image_8.png',
+                'assets/images/projects/MedicalSystem/image_9.png',
+                'assets/images/projects/MedicalSystem/image_10.png',
+                'assets/images/projects/MedicalSystem/image_11.png'
+            ]
+        }, {
+            id: 4,
+            title: 'Friends - Social Media Website',
+            sub: '#Larave 5.2 #Social #3rd-party API #Facebook #Twitter #Chat #Notifications',
+            description: 'Social Media website like Facebook and Twitter. it\'s implemented for self-training. A website application where you can post, comment and reply on statuses. Also chat with friends. and send friend requests.',
+            icon: 'assets/images/projects/Friends/image_1.png',
+            url: 'https://mahmoudarafat.github.io/friends',
+            slide: [
+                'assets/images/projects/Friends/image_1.png',
+                'assets/images/projects/Friends/image_2.png',
+                'assets/images/projects/Friends/image_3.png',
+                'assets/images/projects/Friends/image_4.png',
+                'assets/images/projects/Friends/image_5.png',
+                'assets/images/projects/Friends/image_6.png',
+                'assets/images/projects/Friends/image_7.png',
+                'assets/images/projects/Friends/image_8.png',
+                'assets/images/projects/Friends/image_9.png',
+                'assets/images/projects/Friends/image_10.png'
+            ]
+        }, {
+            id: 5,
+            title: 'Sweet Home',
+            sub: '#Larave 5.3 #CMS #Admin #3rd-party API',
+            description: 'CMS website application implemented for self training. A Laravel 5.3 CMS website where you can CRUD on some Main Categories and fill them with some sub categories which you can add items to view. there\'s some levels of controls in the websites and of course Admin dashboard.',
+            icon: 'assets/images/projects/SweetHome/image_3.png',
+            url: 'https://mahmoudarafat.github.io/sweetHome',
+            slide: [
+                'assets/images/projects/SweetHome/image_1.png',
+                'assets/images/projects/SweetHome/image_2.png',
+                'assets/images/projects/SweetHome/image_3.png',
+                'assets/images/projects/SweetHome/image_4.png',
+                'assets/images/projects/SweetHome/image_5.png',
+                'assets/images/projects/SweetHome/image_6.png',
+                'assets/images/projects/SweetHome/image_7.png',
+                'assets/images/projects/SweetHome/image_8.png',
+                'assets/images/projects/SweetHome/image_9.png',
+                'assets/images/projects/SweetHome/image_10.png'
+            ]
+        }
+    ];
+    $scope.next = [
+        {
+            title: "Newspaper",
+            sub: "web application for recent news",
+            relative: "newspaper template",
+            rel_site: "",
+            icon: "assets/images/projects/newspaper/image_1.png",
+            description: "A new Challenge for testing my knowledge and gain more experience and knowledge, I'm developing a web application like newspaper Website I'm using newspaper template."
+        }
+    ];
+
+    $scope.owner = {
+        name: "Mahmoud Arafat",
+        mobile: "(002) 0106-582-5376",
+        address: "Aga, Dakahlia, Egypt",
+        job: "Back End Web Developer",
+        birthday: " July 10, 1993",
+        marital: "Single",
+        email: "mahmoudarafat33@gmail.com",
+        website: "https://mahmoudarafat.github.io/",
+        military: "Exemption from Military Service",
+        about: "Hello! My name is Mahmoud and I'm Web Developer." +
+        "I have experience in developing web applications, complex front-end and back-end management" +
+        "systems, social platform applications." +
+        "All my projects based on PHP in conjunction with other modern web technologies like AJAX." +
+        "PHP (native PHP, OO-PHP, Laravel), MVC-pattern, MySQL, jQuery, AJAX, HTML5, CSS3, Bootstrap," +
+        "XML/JSON are used." +
+        "While developing an application I always keep in mind SEO optimization and social" +
+        "integration." +
+        "Furthermore, I'm trying to make my code as clean as possible." +
+        "In addition, I can convert designs to high quality, cross-browser compatible HTML5/CSS3" +
+        "markup.",
+        avatar: "assets/images/IMG_1321.jpg"
+    };
+
+    $scope.skills = [
+        {
+            title: "Laravel",
+            level: "Pro",
+            num: "90%"
+        }, {
+            title: "PHP",
+            level: "Pro",
+            num: "85%"
+        }, {
+            title: "Javascript & jQuery",
+            level: "Pro",
+            num: "85%"
+        }, {
+            title: "AJAX",
+            level: "Pro",
+            num: "90%"
+        }, {
+            title: "MySQL",
+            level: "Pro",
+            num: "90%"
+        }, {
+            title: "HTML5 & CSS3",
+            level: "Pro",
+            num: "80%"
+        }, {
+            title: "Bootstrap",
+            level: "Pro",
+            num: "85%"
+        }, {
+            title: "Angular JS",
+            num: "75%",
+            level: "Intermediate"
+        }
+    ];
+
+    $scope.courses = [
+        {
+            title: "Modern Web Development with Laravel 5.2",
+            from: "Udemy",
+            link: "#"
+        }, {
+            title: "A Very Complete Introduction to Laravel",
+            from: "Udemy",
+            link: "#"
+        }, {
+            title: "Everything about Laravel",
+            from: "Udemy",
+            link: "#"
+        }, {
+            title: "SEO Quickstart for Beginners,",
+            from: "Udemy",
+            link: "#"
+        }, {
+            title: "SEO basics for Developers with Laravel",
+            from: "5dmat web – YouTube",
+            link: "#"
+        }, {
+            title: "RESTful Web Services with PHP and Laravel",
+            from: "Pluralsight.",
+            link: "#"
+        },
+        {
+            title: "Become a Web Developer From Scratch,",
+            from: "Udemy",
+            link: "#"
+        }, {
+            title: "PHP for beginners",
+            from: "CodeCademy",
+            link: "#"
+        }, {
+            title: "What’s new in Laravel 5.3",
+            from: "Laracasts",
+            link: "#"
+        }, {
+            title: "PHP to Laravel Essentials",
+            from: "Tutsplus",
+            link: "#"
+        }, {
+            title: "Up and Running with Laravel 4",
+            from: "Lynda",
+            link: "#"
+        }, {
+            title: "Single Page Applications with AngularJS",
+            from: "Coursera",
+            link: "#"
+        }, {
+            title: "Front-End JavaScript Frameworks AngularJS",
+            from: "Coursera",
+            link: "#"
+        }, {
+            title: "Responsive Web Design",
+            from: "Coursera",
+            link: "coursera.org/verify/D2YG3M5WWRAJ"
+        }, {
+            title: "Front-End Web UI Frameworks and Tools",
+            from: "Coursera",
+            link: "coursera.org/verify/BYC42BTPFRVV"
+        }
+    ];
+}
